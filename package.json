@@ -1,5 +1,5 @@
 {
-  "name": "Trillo",
+  "name": "trillo",
   "version": "1.0.0",
   "description": "trillo app",
   "main": "index.js",
@@ -19,7 +19,16 @@
     "concat": "^1.0.3",
     "node-sass": "^4.5.3",
     "npm-run-all": "^4.1.1",
-    "postcss-cli": "^4.1.1"
+    "postcss-cli": "^7.1.0"
   },
-  "build": "next build"
+  "build": "next build",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danilo357/Trillo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Danilo357/Trillo/issues"
+  },
+  "homepage": "https://github.com/Danilo357/Trillo#readme"
 }
